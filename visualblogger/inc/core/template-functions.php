@@ -139,7 +139,7 @@ function visualblogger_notice() {
 
     $theme = wp_get_theme();
 
-    echo '<div class="notice notice-success is-dismissible"><p>'. esc_html('Thank you for installing the VisualBlogger theme!','visualblogger') . '</p><p><a class="button-secondary" href="' . esc_url( $theme->get( 'ThemeURI' ) ) . '" target="_blank">' . esc_html( 'Theme Demo', 'visualblogger' ) . '</a> '. '&nbsp;' . ' <a class="button-primary" href="' . esc_url( $theme->get( 'AuthorURI' ) . '/themes/visualblog-pro' ) . '" target="_blank">' . esc_html( 'Upgrade to PRO theme', 'visualblogger' ) . '</a></p></div>';
+    echo '<div class="notice notice-success is-dismissible"><p>'. esc_html('You are using VisualBlogger Free Version. Please upgrade to VisualBlog Pro Version to use more advanced features.','visualblogger') . '</p><p>' . esc_html('Only Available in Pro Version: 1. Theme Options Panel &nbsp; 2. One Click Demo Import &nbsp; 3. 1000+ Google Fonts &nbsp; 4. 11+ Homepage Styles &nbsp; 5. 19+ Block Patterns &nbsp; 6. Professional Support ...and much more!','visualblogger') . '<p><a class="button-secondary" href="' . esc_url( $theme->get( 'AuthorURI' ) . '/themes/visualblog-pro' ) . '" target="_blank">' . esc_html( 'VisualBlog Pro Demo', 'visualblogger' ) . '</a> '. '&nbsp;' . ' <a class="button-primary" href="' . esc_url( $theme->get( 'AuthorURI' ) . '/themes/visualblog-pro' ) . '" target="_blank">' . esc_html( 'Purchase VisualBlog Pro for $49', 'visualblogger' ) . '</a></p></div>';
 
 }
 

@@ -1,46 +1,22 @@
 === VisualBlogger ===
 Contributors: WPEnjoy
 Requires at least: 6.0
-Tested up to: 6.4
+Tested up to: 6.8
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-VisualBlogger is a WordPress blogging theme built with the WordPress site editor, which allows you to create beautiful blogging sites with drag and drop, no coding skills required.  This theme comes with 11+ homepage styles and 19 pre-designed block patterns that you can use to create your own designs by combining different block patterns.
+VisualBlogger is a modern WordPress blogging theme built entirely with the powerful WordPress Site Editor (FSE). It enables you to design stunning, professional-looking blogging websites effortlessly through drag-and-drop editing—no coding knowledge required.
+
+Packed with 11+ unique homepage layouts and 19 ready-to-use block patterns, VisualBlogger gives you complete creative freedom. You can easily mix and match different patterns to build a personalized site that perfectly matches your style. Whether you want a clean minimal blog, a bold magazine-style homepage, or something in between, this theme has the flexibility to bring your vision to life.
 
 == Changelog ==
 
-= 1.1.1 = December 24, 2023
-* Fixed mobile menu for WP 6.4+
+= 1.1.2 = September 10, 2025
+* Bug fixes
 
-= 1.1.0 = October 17, 2023
-* Fixed CSS styling
-
-= 1.0.9 = August 24, 2023
-* Fixed iframe height for single posts
-
-= 1.0.8 = July 23, 2023
-* Optimized video aspect ratio for single posts
-
-= 1.0.7 =
-* Fixed post thumbnail style in mobile devices
-
-= 1.0.6 =
-* Optimized homepage style 11
-
-= 1.0.4 =
-* Added homepage style 11 (block pattern)
-
-= 1.0.3 =
-* Fixed block pattern style - Home 2
-
-= 1.0.2 =
-* Fixed block pattern styles
-
-= 1.0.0 =
-* Initial release
 
 == Copyright ==
 
