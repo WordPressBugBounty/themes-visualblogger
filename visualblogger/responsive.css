@@ -79,9 +79,6 @@
     .is-layout-constrained .is-layout-constrained {
       width: 100%; }
 
-  body .is-layout-flex.content-wrap {
-    display: block; }
-
   .sidebar {
     margin: 0.7rem 0 0 0 !important; }
 

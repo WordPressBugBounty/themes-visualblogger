@@ -14,7 +14,7 @@ Packed with 11+ unique homepage layouts and 19 ready-to-use block patterns, Visu
 
 == Changelog ==
 
-= 1.1.2 = September 10, 2025
+= 1.1.3 = September 13, 2025
 * Bug fixes
 
 
