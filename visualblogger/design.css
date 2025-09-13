@@ -402,7 +402,7 @@ header.wp-block-template-part {
 
 .wp-block-query-pagination.pagination-style-2 {
   background: #fff;
-  padding: 15px 15px 8px 15px;
+  padding: 15px 15px 15px 15px;
   margin: 0.7rem 0 0 0 !important;
   border-radius: 4px; }
   .wp-block-query-pagination.pagination-style-2 a.page-numbers,
